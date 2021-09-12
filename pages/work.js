@@ -18,7 +18,7 @@ export default function Work() {
         <div className={styles.workItem}>
             2010 - 2021 Machine Tools Engineer - Head of Maintenance
             <div>
-              <a href="https://compa.ro/?lang=en" target="_blank">Compa Sibiu</a>
+              <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>
             </div>
         </div>
 
@@ -33,7 +33,7 @@ export default function Work() {
                   Sustinerea orelor de practica si evaluarea cursantilor.               
                 </li>
               </ul> 
-              <a href="https://compa.ro/?lang=en" target="_blank">Compa Sibiu</a>
+              <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>
             </div>
         </div>
       </main>
