@@ -18,19 +18,37 @@ export default function Work() {
         <div className={styles.workItem}>
             2010 - 2021 Machine Tools Engineer - Head of Maintenance
             <div>
-              <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>
+              <ul> 
+                <li>
+                  Coordinating the maintenance activities for over 200 CNC machine tools and equipments within the company 
+                </li>
+                <li>
+                  Keeping track of spare parts and stocks            
+                </li>
+                <li>
+                  Planning preventive maintenance            
+                </li>
+                <li>
+                  Keeping track of the performance KPIs            
+                </li>
+                <li>
+                  Keeping track of the costs            
+                </li>
+              </ul> 
             </div>
+              <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>
         </div>
+        
 
         <div className={styles.workItem}>
-            2011 - 2020 Trainer 
+            2011 - 2020 Trainer for Machine Tools Diagnostics and Repairs
             <div>
               <ul> 
                 <li>
-                  Elaborare si prezentare cursuri despre diagnosticarea starii tehnice de functionare a masinilor unelte.
+                  Developing and presenting machine tools technical diagnostic courses
                 </li>
                 <li>
-                  Sustinerea orelor de practica si evaluarea cursantilor.               
+                  Practical work with trainees             
                 </li>
               </ul> 
               <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>

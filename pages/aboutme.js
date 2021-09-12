@@ -28,7 +28,7 @@ export default function Aboutme() {
                   I am a very social person, fully involved in what I do
                 </li>
                 <li>
-                  Team leader               
+                  Fast learner               
                 </li>
                 <li>
                   Good communication skills              
@@ -54,6 +54,12 @@ export default function Aboutme() {
                 </li>
                 <li>
                   CSS              
+                </li>
+                <li>
+                  Catia v5 and Solid Works             
+                </li>
+                <li>
+                  English and Romanian speaking              
                 </li>
               </ul> 
               </div>
