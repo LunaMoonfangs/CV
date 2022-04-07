@@ -5,7 +5,7 @@ import styles from '../styles/Work.module.css'
 export default function Work() {
   return (
     <div className={styles.container}>
-      <Head>
+      {/* <Head>
         <title>Work Experience - Nicolae SIGHENCEA</title>
         <meta name="description" content="Work Experience - Nicolae SIGHENCEA" />
       </Head>
@@ -54,7 +54,7 @@ export default function Work() {
               <a href="https://compa.ro/?lang=en" target="_blank" rel="noreferrer">Compa Sibiu</a>
             </div>
         </div>
-      </main>
+      </main> */}
     </div>
   )
 }

@@ -5,7 +5,7 @@ import styles from '../styles/Education.module.css'
 export default function Education() {
   return (
     <div className={styles.container}>
-      <Head>
+      {/* <Head>
         <title>Education - Nicolae SIGHENCEA</title>
         <meta name="description" content="Education - Nicolae SIGHENCEA" />
       </Head>
@@ -33,7 +33,7 @@ export default function Education() {
               <a href="http://energeticsibiu.ro/" target="_blank" rel="noreferrer">Energetic Highschool Sibiu</a>
             </div>
         </div>    
-      </main>
+      </main> */}
     </div>
   )
 }

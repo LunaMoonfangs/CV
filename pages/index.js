@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
+      {/* <Head>
         <title>CV Nicolae SIGHENCEA</title>
         <meta name="description" content="CV Nicolae SIGHENCEA" />
       </Head>
@@ -38,7 +38,7 @@ export default function Home() {
           </Link>
 
         </div>
-      </main>    
+      </main>     */}
     </div>
   )
 }

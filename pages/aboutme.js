@@ -6,7 +6,7 @@ import elrond from '../public/elrond.png'
 export default function Aboutme() {
   return (
     <div className={styles.container}>
-      <Head>
+      {/* <Head>
         <title>About me - Nicolae SIGHENCEA</title>
         <meta name="description" content="About me - Nicolae SIGHENCEA" />
       </Head>
@@ -64,7 +64,7 @@ export default function Aboutme() {
               </ul> 
               </div>
         </div>
-      </main>
+      </main> */}
     </div>
   )
 }
